@@ -1,4 +1,4 @@
-# Улучшение процесса обогащения золот
+# Улучшение процесса обогащения золота
 
 [Ноутбук](https://github.com/ArtemYerokhin/Study_Projects/blob/main/Gold_Recovery/Gold_Recovery.ipynb)
 
