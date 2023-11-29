@@ -1,4 +1,4 @@
-# Анализ текстов
+# Улучшение процесса обогащения золот
 
 [Ноутбук](https://github.com/ArtemYerokhin/Study_Projects/blob/main/Gold_Recovery/Gold_Recovery.ipynb)
 
